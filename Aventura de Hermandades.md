@@ -1,5 +1,5 @@
-# Enlace al resumen
-## HA Noviembre 2018
+# HA Noviembre 2018
+Enlaces:
 * [Leyenda](https://docs.google.com/spreadsheets/d/1Bdp6m9Q5Ozy8_MelNTreQPUQoXCj6MohgkPv8qVSSnY/edit?usp=sharing)
 * [Mapa1](https://docs.google.com/spreadsheets/d/1Bdp6m9Q5Ozy8_MelNTreQPUQoXCj6MohgkPv8qVSSnY/edit#gid=888046286)
 * [Mapa2](https://docs.google.com/spreadsheets/d/1Bdp6m9Q5Ozy8_MelNTreQPUQoXCj6MohgkPv8qVSSnY/edit#gid=282948685)
