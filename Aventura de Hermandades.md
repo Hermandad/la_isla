@@ -6,4 +6,5 @@ Enlaces:
 * [Mapa2](https://docs.google.com/spreadsheets/d/1Bdp6m9Q5Ozy8_MelNTreQPUQoXCj6MohgkPv8qVSSnY/edit#gid=282948685)
 * [Mapa3](https://docs.google.com/spreadsheets/d/1Bdp6m9Q5Ozy8_MelNTreQPUQoXCj6MohgkPv8qVSSnY/edit#gid=2107761404)
 
+* [Aportaciones al camino y Stock](https://docs.google.com/spreadsheets/d/1Bdp6m9Q5Ozy8_MelNTreQPUQoXCj6MohgkPv8qVSSnY/edit#gid=2080277180)
  
