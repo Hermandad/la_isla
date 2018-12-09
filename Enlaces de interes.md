@@ -1,7 +1,6 @@
-# Enlaces de interés
 
-## [Elvenar Gems of Knowledge](https://www.gamersgemsofknowledge.com/)
-*Idioma* inglés
+# ¿Quieres sabes cualquier cosa sobre elvenar?
+[Elvenar Gems of Knowledge](https://www.gamersgemsofknowledge.com/) *inglés*
 
 Esta página te servirá de guía durante toda tu aventura en Elvenar.
  * Misiones de cada raza (GUEST RACE GUIDE)
@@ -10,4 +9,9 @@ Esta página te servirá de guía durante toda tu aventura en Elvenar.
  * Recursos más importantes en cada torneo (TOURNAMENT)
  * [Una calculadora para organizarte en cada torneo.](https://elvengems.com/tournament/tournament-calculator/)
  * Un sumario de las Aventuras de las Hermandades ya pasadas (FELLOWSHIP ADVENTURES). 
+ 
+ # ¿Quieres saber como evolucionas?
+ [Elvenstats](https://www.elvenstats.com/)
+ Esta página muestra un histórico de ti, puedes buscar a otros jugadores.
+ Además de ver cómo evoluciona tu hermandad y su clasificación en los distintos ranking
 
