@@ -13,6 +13,6 @@ Esta página te servirá de guía durante toda tu aventura en Elvenar.
  # ¿Quieres saber como evolucionas?
  [Elvenstats](https://www.elvenstats.com/)
  
- Esta página muestra un histórico de ti, puedes buscar a otros jugadores.
- Además de ver cómo evoluciona tu hermandad y su clasificación en los distintos ranking
+ Esta página muestra un histórico de ti y de cualquier otro jugador,
+ además puedes ver cómo evoluciona tu hermandad. 
 
