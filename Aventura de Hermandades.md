@@ -1,5 +1,4 @@
 # Aventura de Hermandades
-### Noviembre 2018
 
   * [Leyenda y resumen ](https://docs.google.com/spreadsheets/d/10BClAz0bYftk9-fsJB-1oa1LIPkn-np7fzznIz39eUM/edit#gid=0&range=B7:K8)
   * [Mapa](https://docs.google.com/spreadsheets/d/10BClAz0bYftk9-fsJB-1oa1LIPkn-np7fzznIz39eUM/edit#gid=1286302819&range=A1)
