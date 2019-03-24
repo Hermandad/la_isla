@@ -1,9 +1,9 @@
 # Aventura de Hermandades
 
-  * [Leyenda y resumen ](https://docs.google.com/spreadsheets/d/10BClAz0bYftk9-fsJB-1oa1LIPkn-np7fzznIz39eUM/edit#gid=0&range=B7:K8)
-  * [Mapa](https://docs.google.com/spreadsheets/d/10BClAz0bYftk9-fsJB-1oa1LIPkn-np7fzznIz39eUM/edit#gid=313575100)
+  * [Leyenda y resumen ](https://docs.google.com/spreadsheets/d/1yYU9Gm1qlF6ygH8sq4Az1DmBpjQqGan-MvQe_XZDG4c/edit#gid=0)
+  * [Mapa](https://docs.google.com/spreadsheets/d/1yYU9Gm1qlF6ygH8sq4Az1DmBpjQqGan-MvQe_XZDG4c/edit#gid=313575100)
  
-* [Stock de cada miembro,](https://docs.google.com/spreadsheets/d/10BClAz0bYftk9-fsJB-1oa1LIPkn-np7fzznIz39eUM/edit#gid=2080277180&range=B2:B3)
+* [Stock de cada miembro,](https://docs.google.com/spreadsheets/d/1yYU9Gm1qlF6ygH8sq4Az1DmBpjQqGan-MvQe_XZDG4c/edit#gid=2080277180)
 deberiamos cada uno de nosotros escribir su stock para ver en tiempo real las insignias que hay,
 ello nos ayudará a repartirnos las insignias y que sobren pocas al finalizar la aventura.
 
