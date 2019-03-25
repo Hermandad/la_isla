@@ -11,7 +11,8 @@
   Muestra las insignias que necesita cada camino.
   
   También indica el camino más favorable de:
-    * Menor tiempo.
+  
+  **    * Menor tiempo.
     * Menos insignias.
     * Más rentable en puntos por unidad de tiempo.
     * Más rentable en puntos por insignia.
