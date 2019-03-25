@@ -8,12 +8,11 @@
   
   * [Mapa detalle](https://docs.google.com/spreadsheets/d/1yYU9Gm1qlF6ygH8sq4Az1DmBpjQqGan-MvQe_XZDG4c/edit#gid=1286302819)
   Muestra las insignias que necesita cada camino.
-  
   También indica el camino más favorable de:
-  * Menor tiempo.
-  * Menos insignias.
-  * Más rentable en puntos por unidad de tiempo.
-  * Más rentable en puntos por insignia.
+    * Menor tiempo.
+    * Menos insignias.
+    * Más rentable en puntos por unidad de tiempo.
+    * Más rentable en puntos por insignia.
  
 * [Stock](https://docs.google.com/spreadsheets/d/1yYU9Gm1qlF6ygH8sq4Az1DmBpjQqGan-MvQe_XZDG4c/edit#gid=2080277180)
 Hoja donde indico lo que se comenta en el chat y por mensajería.
