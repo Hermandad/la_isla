@@ -4,7 +4,6 @@
   Indica el camino con menos insignias y el camino que necesita menos tiempo.
   * [Rentabilidad de cada "paso"](https://docs.google.com/spreadsheets/d/1yYU9Gm1qlF6ygH8sq4Az1DmBpjQqGan-MvQe_XZDG4c/edit#gid=313575100)
   Muestra la rentabilidad de hacer cada "paso". A más pequeñó el número más rentable.
-  
   También muestra la rentabilidad del pozo.
   
   * [Mapa detalle](https://docs.google.com/spreadsheets/d/1yYU9Gm1qlF6ygH8sq4Az1DmBpjQqGan-MvQe_XZDG4c/edit#gid=1286302819)
