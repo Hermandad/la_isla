@@ -1,12 +1,12 @@
 # Aventura de la Hermandad
 
-  * [Leyenda y resumen ](https://docs.google.com/spreadsheets/d/17YglWtDx0nidzbzhfEjqptfwrtspryXk3rEsKTNhBxM/edit#gid=0)
+  * [Leyenda y resumen ](https://docs.google.com/spreadsheets/d/1BjC2_c-o2aBsuAbZwKi27OZ_-CQIl4sv0dv6HnRbwKg/edit#gid=0)
   Indica el camino con menos insignias y el camino que necesita menos tiempo.
-  * [Rentabilidad de cada "paso"](https://docs.google.com/spreadsheets/d/17YglWtDx0nidzbzhfEjqptfwrtspryXk3rEsKTNhBxM/edit#gid=313575100)
+  * [Rentabilidad de cada "paso"](https://docs.google.com/spreadsheets/d/1BjC2_c-o2aBsuAbZwKi27OZ_-CQIl4sv0dv6HnRbwKg/edit#gid=313575100)
   Muestra la rentabilidad de hacer cada "paso". A más pequeñó el número más rentable.
   También muestra la rentabilidad del pozo.
   
-  * [Mapa detalle](https://docs.google.com/spreadsheets/d/17YglWtDx0nidzbzhfEjqptfwrtspryXk3rEsKTNhBxM/edit#gid=1286302819)
+  * [Mapa detalle](https://docs.google.com/spreadsheets/d/1BjC2_c-o2aBsuAbZwKi27OZ_-CQIl4sv0dv6HnRbwKg/edit#gid=1286302819)
   Muestra las insignias que necesita cada camino y el camino más favorable respecto a:
     * Menos tiempo.
     * Menos insignias.
