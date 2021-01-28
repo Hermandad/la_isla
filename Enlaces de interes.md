@@ -14,4 +14,10 @@
  # Para estar al día de las novedades
  [Furia de dragones](http://lafuriadelosdragones.blogspot.com/) es una página que te anuncia los próximos eventos de Elvenar para que te puedas organizar.
  Lo más interesante que ofrece son los Excel con toda la información al detalle de cada evento.
+ 
+ # Consejos para afrontar la Torre de la Eternidad
+ [Torre_de_la_Eternidad](https://youtube.com/playlist?list=PLgXi01FHr0zxAHZ3aVhl4ZsC0iJChBMFy) Tres videos donde se explican las estrategias:
+  * Barrido
+  * Barrido con una ausencia
+  * Descarte de recursos
 
